@@ -1,0 +1,12 @@
+.list-group li p{
+    margin-top: 15px;
+    width: auto;
+    text-align: center;
+    border: 2px solid red;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#final{
+    cursor: pointer;
+}
